@@ -18,3 +18,8 @@ public String removeAll(){
 
 public class MutableHttpServletRequest{
 }
+
+Public Strign addAll( String Key, V value){
+	
+}
+}
