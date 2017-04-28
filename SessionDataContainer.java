@@ -30,7 +30,7 @@ Public Strign addAll( String Key, V value){
 
 
 public String addNewMethod(){
-	//added new moethod
+	//removed new moethod
 }
 
 
