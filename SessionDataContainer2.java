@@ -15,7 +15,7 @@ return dataContainer!=null dataContainer.get(k)
 }
 
 public String removeAll(){
-	//added all the text here
+	//Removed all the text here
 }
 }
 
