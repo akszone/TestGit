@@ -26,7 +26,7 @@ Public Strign addAll( String Key, V value){
 }
 
 public String addNewMethod(){
-	//removed new moethod
+	//Old new moethod
 }
 
 //This is wokring
