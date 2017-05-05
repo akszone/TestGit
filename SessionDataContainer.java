@@ -37,3 +37,5 @@ public String addNewMethod(){
 //Added addtional comment to Branch1
 
 //This is the example of cherry pick.
+
+//This is the second commit for cherry pick
