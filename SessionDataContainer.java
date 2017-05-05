@@ -35,3 +35,5 @@ public String addNewMethod(){
 
 //adding new data on 4/25- Another test for MergeCollation
 //Added addtional comment to Branch1
+
+//This is the example of cherry pick.
